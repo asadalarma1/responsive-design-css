@@ -1,0 +1,1023 @@
+.style_fiscus-button-default-styles__d3mnW {
+    padding: 10px 12px
+}
+
+.style_action-buttons-container-default-styles__izx_j {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.style_action-buttons-container-default-styles__izx_j .style_action-button-default-styles__MLe3m {
+    width: 128px
+}
+
+.style_fiscus-title-default-styles__8EeMp {
+    margin: 0
+}
+
+.styles_shadow-4__Q3hCB {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 2px 4px 0 rgba(40,60,61,.04),0 8px 16px 0 rgba(97,111,112,.16)
+}
+
+.styles_shadow-nav-item-icon__MnPb_ {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 3.5px 5.5px 0 rgba(41,57,88,.16)
+}
+
+.styles_shadow-header__wmrOA {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 0 1px 0 rgba(40,60,61,.08),0 .5px 2px 0 rgba(97,111,112,.16)
+}
+
+.styles_truncate__F_r5U {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.styles_rounded-full__qQypa {
+    border-radius: 9999px!important
+}
+
+.styles_text-sm__htACn {
+    font-size: .875rem!important;
+    line-height: 1.25rem!important
+}
+
+.styles_dialog__fzwOf {
+    min-width: 400px!important;
+    max-width: 400px!important
+}
+
+.styles_button-1__Ws0ej {
+    flex: 1
+}
+
+.styles_button-2__5s60D {
+    min-width: 170px!important;
+    max-width: 170px!important
+}
+
+.styles_text__7Ryq9 {
+    display: block
+}
+
+.styles_h-full__sm_95 {
+    height: 100%!important
+}
+
+@font-face {
+    font-family: Pretendard-Black;
+    src: url(/fonts/Pretendard-Black.otf)
+}
+
+@font-face {
+    font-family: Pretendard-Bold;
+    src: url(/fonts/Pretendard-Bold.otf)
+}
+
+@font-face {
+    font-family: Pretendard-ExtraBold;
+    src: url(/fonts/Pretendard-ExtraBold.otf)
+}
+
+@font-face {
+    font-family: Pretendard-ExtraLight;
+    src: url(/fonts/Pretendard-ExtraLight.otf)
+}
+
+@font-face {
+    font-family: Pretendard-Light;
+    src: url(/fonts/Pretendard-Light.otf)
+}
+
+@font-face {
+    font-family: Pretendard-Medium;
+    src: url(/fonts/Pretendard-Medium.otf)
+}
+
+@font-face {
+    font-family: Pretendard-Regular;
+    src: url(/fonts/Pretendard-Regular.otf)
+}
+
+@font-face {
+    font-family: Pretendard-SemiBold;
+    src: url(/fonts/Pretendard-SemiBold.otf)
+}
+
+@font-face {
+    font-family: Pretendard-Thin;
+    src: url(/fonts/Pretendard-Thin.otf)
+}
+
+* {
+    font-size: 16px
+}
+
+*,:after,:before {
+    box-sizing: border-box
+}
+
+*,:after,:before {
+    border: 0 solid #e5e7eb
+}
+
+body,html {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    min-width: 1350px;
+    overflow-y: hidden;
+    -webkit-text-size-adjust: 100%;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    font-feature-settings: normal;
+    font-variation-settings: normal
+}
+
+table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit
+}
+
+blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre {
+    margin: 0
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: inherit;
+    font-weight: inherit
+}
+
+[role=button],button {
+    cursor: pointer
+}
+
+[type=button],[type=reset],[type=submit],button {
+    -moz-appearance: button;
+    appearance: button;
+    -webkit-appearance: button;
+    background-color: transparent;
+    background-image: none
+}
+
+button,select {
+    text-transform: none
+}
+
+button,input,optgroup,select,textarea {
+    font-family: inherit;
+    font-size: 100%;
+    font-weight: inherit;
+    line-height: inherit;
+    color: inherit;
+    margin: 0;
+    padding: 0
+}
+
+#__next {
+    width: 100%;
+    height: 100%
+}
+
+.ant-btn {
+    box-shadow: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5px
+}
+
+.ant-btn-primary {
+    background-color: #2a3958
+}
+
+.ant-table-measure-row {
+    display: none!important
+}
+
+.ant-select-item-option-content {
+    padding: 6px 12px
+}
+
+.ant-form-item-explain-error {
+    padding-top: 8px
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px
+}
+
+.dashboard-layout::-webkit-scrollbar {
+    width: 0
+}
+
+::-webkit-scrollbar-track {
+    background: #f7f7f8;
+    border-radius: 10px
+}
+
+::-webkit-scrollbar-thumb {
+    background: #6f80a0;
+    border-radius: 10px
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #63728f
+}
+
+.style_dark-mode-default-styles__N4_Sa {
+    background-color: #737373
+}
+
+.style_light-mode-default-styles__xdvAr {
+    background-color: #fff
+}
+
+.style_fiscus-loading-screen-default-styles__Et2zl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%
+}
+
+.style_row-styles__KPG7x {
+    height: 100%
+}
+
+.style_row-styles__KPG7x>img {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    z-index: -1
+}
+
+.style_row-styles__KPG7x>:nth-child(2):is(div) {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.style_row-styles__KPG7x>:nth-child(2):is(div) :first-child>:nth-child(2):is(h1) {
+    margin-top: 129px;
+    margin-bottom: 0
+}
+
+.style_row-styles__KPG7x>:nth-child(2):is(div) :first-child>:nth-child(3):is(h1) {
+    margin-top: 0
+}
+
+.style_row-styles__KPG7x>:nth-child(2):is(div)>:nth-child(2):is(div) {
+    display: flex;
+    align-items: center
+}
+
+.style_row-styles__KPG7x>:nth-child(2):is(div)>:nth-child(2):is(div) img {
+    margin-left: 8px;
+    margin-right: 8px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div) {
+    display: flex;
+    justify-content: center;
+    padding-top: 230px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div) {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div)>:first-child:is(span) {
+    margin-top: 5px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div)>:nth-child(2):is(span) {
+    margin-bottom: 60px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div) :nth-child(3):is(div)>:first-child:is(div) {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div) :nth-child(3):is(div)>:first-child:is(div)>:nth-child(2):is(span) {
+    margin-right: 15px;
+    font-family: Pretendard-Medium
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div) :nth-child(3):is(div) .style_form-item-1__xSRdI {
+    margin-top: 10px;
+    margin-bottom: 40px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div) :nth-child(3):is(div) .style_form-item-2__KN4dK {
+    margin-bottom: 16px
+}
+
+.style_row-styles__KPG7x>:nth-child(3):is(div)>:first-child:is(div) :nth-child(3):is(div) .style_form-item-2__KN4dK button {
+    height: 59px!important
+}
+
+.styles_container-1-active__kILdZ,.styles_container-2-1-active__NoRZR,.styles_shadow-4__sbqTq {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 2px 4px 0 rgba(40,60,61,.04),0 8px 16px 0 rgba(97,111,112,.16)
+}
+
+.styles_container-1-1-img-inactive__Lbrei,.styles_shadow-nav-item-icon__VlRMG {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 3.5px 5.5px 0 rgba(41,57,88,.16)
+}
+
+.styles_shadow-header__d0pMR {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 0 1px 0 rgba(40,60,61,.08),0 .5px 2px 0 rgba(97,111,112,.16)
+}
+
+.styles_container-1-1-text__uorpy,.styles_container-2-1-text__XwE_C,.styles_truncate__ovxUi {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.styles_rounded-full__cmxyp {
+    border-radius: 9999px!important
+}
+
+.styles_text-sm__Lwy1G {
+    font-size: .875rem!important;
+    line-height: 1.25rem!important
+}
+
+.styles_container-1__t7c52 {
+    cursor: pointer;
+    margin-bottom: 24px;
+    width: 100%;
+    padding-left: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px
+}
+
+.styles_container-1-active__kILdZ {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #fff
+}
+
+.styles_container-1-1__iAa45 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 12px
+}
+
+.styles_container-1-1-img__uOkvv {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 30px;
+    height: 30px
+}
+
+.styles_container-1-1-text__uorpy {
+    width: 100%;
+    color: #b1b4bb!important
+}
+
+.styles_container-1-1-text-active__DEjnN {
+    color: #0b101a!important
+}
+
+.styles_container-2__quOm0 {
+    height: 100%;
+    overflow: hidden;
+    transition-duration: .2s
+}
+
+.styles_container-2-collapsed__3c1T8 {
+    height: 0
+}
+
+.styles_container-2-1__jevYS {
+    cursor: pointer;
+    margin-bottom: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-radius: 10px
+}
+
+.styles_container-2-1-active__NoRZR {
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #fff
+}
+
+.styles_container-2-1-span__B_YMg {
+    height: 50px;
+    width: 50px
+}
+
+.styles_container-2-1-text__XwE_C {
+    color: #b1b4bb!important
+}
+
+.styles_container-2-1-text-active__ZZJUh {
+    color: #0b101a!important
+}
+
+.styles_fiscus-nav-dark-mode-styles__VMO6e {
+    background-color: #737373
+}
+
+.styles_fiscus-nav-styles__ZoNiW {
+    border-right-width: 1px;
+    background-color: #fff;
+    border-color: #e5e5e5;
+    overflow-x: hidden;
+    overflow-y: auto
+}
+
+.styles_fiscus-nav-collapsed__ZtCcB {
+    z-index: 2;
+    overflow: hidden
+}
+
+.styles_fiscus-nav-col-1-styles__XqWfk {
+    height: 90px;
+    padding-left: 52px;
+    display: flex;
+    align-items: center
+}
+
+.styles_fiscus-nav-col-1-collapsed-styles__cuuV3 {
+    padding-left: 0
+}
+
+.styles_margin-right__PZHiQ {
+    margin-right: 13px
+}
+
+.styles_fiscus-nav-items-container-styles__dcqRG {
+    padding-left: 22px;
+    padding-right: 10px;
+    padding-top: 20px
+}
+
+.styles_fiscus-nav-image-styles__qAwa_ {
+    width: 160px;
+    margin-right: 13px
+}
+
+.styles_fiscus-nav-image-collapsed-styles__CH1v0 {
+    width: 0;
+    margin-right: 0
+}
+
+.styles_fiscus-nav-button-icon-styles__YQ2kK {
+    width: 15px;
+    height: 18;
+    color: #a3a3a3
+}
+
+.styles_fiscus-list-item-styles__2PqV1 {
+    width: 384px;
+    border-bottom: none
+}
+
+.styles_fiscus-list-item-meta-text-styles__pzRFz {
+    text-decoration-line: underline;
+    text-overflow: ellipsis
+}
+
+.styles_fiscus-popover-button-styles__RGk2t {
+    min-width: 45px;
+    min-height: 45px;
+    border-radius: 10px
+}
+
+.styles_search-box-container-styles__cEuTE {
+    height: 384px;
+    overflow-y: auto
+}
+
+.styles_fiscus-list-container-styles__fhbt7 {
+    width: 384px
+}
+
+.styles_fiscus-list-item-styles__xfuty {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.styles_fiscus-list-item-styles__xfuty>div {
+    width: 100%;
+    display: flex;
+    flex-direction: column
+}
+
+.styles_fiscus-list-item-card-styles__cbArb {
+    border: none;
+    background-color: #e5e7eb
+}
+
+.styles_fiscus-list-item-meta-styles__pd0Wi {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.styles_fiscus-input-styles__27VDs {
+    width: 375px;
+    height: 45px;
+    padding-left: 15px
+}
+
+.styles_fisucs-dropdown-button-styles__Bx3l8 {
+    min-width: 45px;
+    min-height: 45px
+}
+
+.styles_shadow-4____jUx {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 2px 4px 0 rgba(40,60,61,.04),0 8px 16px 0 rgba(97,111,112,.16)
+}
+
+.styles_shadow-nav-item-icon__blXNO {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 3.5px 5.5px 0 rgba(41,57,88,.16)
+}
+
+.styles_fiscus-header-styles___7sbc,.styles_shadow-header__GT8RU {
+    box-shadow: 0 0 0 0 transparent,0 0 0 0 transparent,0 0 1px 0 rgba(40,60,61,.08),0 .5px 2px 0 rgba(97,111,112,.16)
+}
+
+.styles_truncate__6LZfN {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.styles_rounded-full__RqlUN {
+    border-radius: 9999px!important
+}
+
+.styles_text-sm__MQ6oo {
+    font-size: .875rem!important;
+    line-height: 1.25rem!important
+}
+
+.styles_container-styles__2xJsr {
+    display: flex;
+    align-items: center
+}
+
+.styles_fiscus-header-styles___7sbc {
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    padding-right: 30px;
+    padding-left: 52px;
+    z-index: 2;
+    gap: 460px
+}
+
+.styles_fiscus-header-collapse-styles__ugjAn {
+    padding-left: 62px;
+    z-index: 1
+}
+
+.styles_gap-40__NZGk6 {
+    gap: 40px
+}
+
+.styles_gap-29__ybSBF {
+    gap: 29px
+}
+
+.styles_gap-1__PbJIl {
+    gap: 1px
+}
+
+.styles_gap-12__Wexqj {
+    gap: 12px
+}
+
+.styles_image-styles__3zhF_ {
+    width: 159px;
+    height: 29px;
+    margin-right: 1px
+}
+
+.styles_hidden__GWHiC {
+    visibility: hidden
+}
+
+.styles_fiscus-header-col-2-styles__Wnbaw {
+    display: flex;
+    gap: 8px
+}
+
+.styles_fiscus-header-col-2-styles__Wnbaw .styles_col-2-button__cLraE {
+    min-width: 45px;
+    min-height: 45px
+}
+
+.styles_container-2-styles__GaSiu {
+    display: flex;
+    flex-direction: column;
+    gap: 1px
+}
+
+.styles_content-styles__xbUGk {
+    padding: 110px 30px 30px;
+    overflow-y: scroll
+}
+
+.styles_container__xFD3G {
+    height: 100vh!important
+}
+
+
+
+
+.styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:400px;
+}
+
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 7392px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:5700px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 5544px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:3900px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 3696px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:2050px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2772px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:1150px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2464px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:850px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+.styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:400px;
+}
+
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 7392px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:5700px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 5544px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:3900px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 3696px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:2050px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2772px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:1150px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2464px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:850px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2310px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:700px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2054px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:440px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1848px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:240px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1680px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:100px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1487px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:10px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:100px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1232px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:-190px !important;
+       width:500px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:12px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:80px;
+    }
+}
+
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1056px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:-230px !important;
+       width:350px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:10px !important;   
+    }der, footer and one whole page.
+    .styles_container-2-styles__GaSiu{
+        width:60px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 934px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:-310px !important;
+       width:300px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:10px !important;   
+    }der, footer and one whole page.
+    .styles_container-2-styles__GaSiu{
+        width:60px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2310px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:700px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 2054px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:440px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1848px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:240px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1680px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:100px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:200px;
+    }
+}
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1487px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:10px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:14px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:100px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1232px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:-190px !important;
+       width:500px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:12px !important;   
+    }
+    .styles_container-2-styles__GaSiu{
+        width:80px;
+    }
+}
+
+
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 1056px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:-230px !important;
+       width:350px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:10px !important;   
+    }der, footer and one whole page.
+    .styles_container-2-styles__GaSiu{
+        width:60px;
+    }
+}
+
+/* Ensuring the entire div is responsive */
+@media screen and (max-width: 934px) {
+   .styles_fiscus-header-col-2-styles__Wnbaw{
+    margin-left:-310px !important;
+       width:300px;
+    }
+    .styles_container-2-styles__GaSiu > .css-1j09s3e{
+     font-size:10px !important;   
+    }der, footer and one whole page.
+    .styles_container-2-styles__GaSiu{
+        width:60px;
+    }
+}
